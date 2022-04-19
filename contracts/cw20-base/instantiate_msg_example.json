@@ -1,0 +1,16 @@
+{
+  "name": "OODLZ",
+  "symbol": "OODLZ",
+  "decimals": 10,
+  "initial_balances": [
+    {
+      "address": "terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8",
+      "amount": 1000000
+    }
+  ],
+  "mint": {
+    "minter": "terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8",
+    "cap": 1000000
+  },
+  "marketing": {}
+}
