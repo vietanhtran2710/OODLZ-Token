@@ -1,0 +1,10 @@
+{
+  "localterra": {
+    "OODLZ-token": {
+      "codeId": "9",
+      "contractAddresses": {
+        "default": "terra1qjrvlf27upqhqnrqmmu2y205ed2c3tc87dnku3"
+      }
+    }
+  }
+}
