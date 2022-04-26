@@ -1,16 +1,23 @@
 {
   "name": "OODLZ",
-  "symbol": "OODLZ",
+  "symbol": "OODL",
   "decimals": 10,
   "initial_balances": [
     {
       "address": "terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8",
-      "amount": 1000000
+      "amount": "1000000"
     }
   ],
   "mint": {
     "minter": "terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8",
-    "cap": 1000000
+    "cap": "1000000"
   },
-  "marketing": {}
+  "marketing": {
+    "description": "Adaptive utility and rewards token (OODL) as an added reward to any cashback users receive from their spend",
+    "marketing": "terra1dcegyrekltswvyy0xy69ydgxn9x8x32zdtapd8",
+    "project": "oodlz.io",
+    "logo": {
+      "url": "https://www.oodlz.io/wp-content/uploads/oodlz-300.png"
+    }
+  }
 }
